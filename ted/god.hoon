@@ -129,7 +129,7 @@
 ?~  ures
   (strand-fail %no-arg ~)
 =/  res  u.ures
-;<  jon=json  bind:m  ((set-timeout ,json) ~s5 (fetch-json url))
+;<  jon=json  bind:m  ((set-timeout ,json) ~s10 (fetch-json url))
 ;<  val=@ux   bind:m  (pulse-to-value jon)
 ;<  our=ship  bind:m  get-our
 ;<  now=@da   bind:m  get-time
