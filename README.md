@@ -14,3 +14,6 @@ Voice of God for Urbit - Inspired by TempleOS
 
 # Usage
 From the dojo run `-god ~sampel-palnet %some-channel` to post a message there.
+
+### Example message:
+`God Says... conversing measure meditations unmeasured drunkards party ought volumes turned home pliant impatient off hearken abuse damaged`
